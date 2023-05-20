@@ -1,0 +1,28 @@
+body{margin:0px;}
+.grid{background:#FB5B5B;
+      color:white;
+	  font-size:50px;
+	  padding-left:30px;
+      }
+.place{display:flex;
+       text-align:center;}
+.place .box{height:300px;
+            width:319px;}
+.red{background:#FAFAFA;
+     margin-top:20px;
+     margin-left:120px;}
+.blue{background:#FAFAFA;
+      margin-top:20px;
+      margin-left:50px;}
+.bbutton{padding:10px 100px 10px 100px;
+		 color:white;
+		 background:#CCCCCC;
+		 border:1px;}
+.bbutton:hover{background:#FB5B5B;
+               color:white;}
+.star_colour{color:yellow;}
+.star_colour1{color:#E8DCDF;}
+.icon_place{
+            margin-left: 480px;
+            margin-top: 217px;}
+.icon{ color: #BBC4C1;}

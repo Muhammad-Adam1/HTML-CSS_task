@@ -1,0 +1,26 @@
+body{background:black;}
+.box{height:850px;
+     width:400px;
+	 margin-left:450px;
+	 background:white;}
+.size{font-size:60px;}
+.input{
+     border-bottom:1px solid black;
+     border-radius:5px;
+   }
+.input-style{
+             border: none;
+		   margin-left: 10px;
+            }
+.icon{padding-left:7px;}
+.place{text-align:center;}
+u:hover{color:blue}
+.register{
+	      color:white;
+          background:#6DABE4;
+          padding:15px 40px 15px 40px;
+          border-radius:5px;
+          border: none;
+          border:0px 0px 0px 0px #6DABE4;
+          margin-left:140px;
+		}

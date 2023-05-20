@@ -1,0 +1,36 @@
+body{background:black;}
+.box{width:400px;
+     height:800x;
+	 margin-left:450px;
+	 background:white;
+	 /*border-radius:20px;*/
+	 border:0px;}
+.place{text-align:center;}
+.box .size{font-size:60px;}
+.btn{padding-top:20px;
+     padding-bottom:20px;
+	 padding-right:40px;
+	 padding-left:40px;
+	 color:white;
+	 background:#6DABE4;
+	 border-radius:10px;
+	 border:0px;}
+.facebook{color:#385994;
+          font-size:30px;
+		  border-radius:5px;
+	    }
+.twitter{color:#2D9ADE;
+         font-size:30px;
+		 border-radius:5px;
+		}
+.google{color:#DB2E30;
+		font-size:30px;
+		border-radius:5px;}
+.icon{padding-left:7px;}
+.input{border-bottom:1px solid black;
+	   border-radius:5px;
+      }
+.input-style{
+		border: none;
+	    margin-left: 10px;
+	   }

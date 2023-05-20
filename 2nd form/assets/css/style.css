@@ -1,0 +1,23 @@
+body{background:black;}
+.box{width:500px;
+     margin-left:400px;
+	 background:white;}
+.pad-left{padding-left:40px;}
+.marg-left{margin-left:40px;}
+.input-style{ 
+	          border-color: #CACACA;
+            /**** What this happened ****/
+			  border-top:2px;
+			  border-right:2px;
+			  border-left:2px;
+            /***************************/
+              width: 335px;
+              height: 35px;
+		    }
+.submit{
+	    color:white;
+	    background:#57B547;
+        padding:15px 25px 15px 25px;
+        border-radius:5px;
+		border:none;
+	   }

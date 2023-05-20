@@ -1,0 +1,23 @@
+body{background:black;}
+h2{margin-left: 16px;}
+.box{height:589px;
+     width:400px;
+	 background:white;
+	 margin-left:500px;}
+.pad-left{padding:10px 0px 0px 15px;}
+.marg-left{margin-left:15px;}
+.bar-color{background-color:#FAFAFA;
+           border: none;
+		   width: 335px;
+		   height: 35px;}
+.stylee{
+        font: 16px "Times New Roman";
+       }
+.clr{
+    color: green;
+    }
+.btn{padding:10px 30px 10px 30px;
+     background:#4471D8;
+	 color:white;
+	 border-radius:5px;}
+
